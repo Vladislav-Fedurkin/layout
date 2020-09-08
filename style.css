@@ -46,8 +46,8 @@ body {
     height: 60%;
     background: green;
     color: white;
-    flex-direction: column;
     text-decoration-line: underline ;
+    justify-content: space-around
 }
 .info {
     display: flex;
